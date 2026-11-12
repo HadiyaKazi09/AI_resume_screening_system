@@ -1,0 +1,3 @@
+.venv/
+screening.db
+__pycache__/

@@ -1,0 +1,8 @@
+streamlit
+spacy
+scikit-learn
+pdfplumber
+pandas
+plotly
+reportlab
+pytesseract
