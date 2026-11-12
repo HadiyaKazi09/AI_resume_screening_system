@@ -2,6 +2,7 @@ streamlit
 spacy
 scikit-learn
 pdfplumber
+python-docx
 pandas
 plotly
 reportlab
